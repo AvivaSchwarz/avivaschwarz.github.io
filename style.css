@@ -1,5 +1,3 @@
-
-
 body {
 
   font-family: 'Raleway', sans-serif;
@@ -130,6 +128,17 @@ body {
 
 
 
+/*SOCIAL LINKS*/
+
+.ul-social {
+
+  text-align: center;
+
+  padding-left: 0;
+
+}
+
+
 
 .li-social-links {
 
@@ -158,7 +167,6 @@ body {
 #down-arrow {
 
   /*position: absolute;
-
   width: 100%;*/
 
   margin-top: auto;
